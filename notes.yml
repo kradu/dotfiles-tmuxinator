@@ -1,0 +1,60 @@
+---
+name: notes
+project_root: "/root/notes/snake-weasel"
+windows:
+- org:
+    layout: 8cbb,90x56,0,0{56x56,0,0[56x28,0,0,41,56x27,0,29,42],33x56,57,0[33x12,57,0,43,33x11,57,13,44,33x31,57,25,45]}
+    panes:
+    - cd /root/.config/nvim
+    - cd /root/.config/nvim
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+- todos:
+    layout: f11e,90x56,0,0{45x56,0,0,46,44x56,46,0,47}
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+- dev-setup:
+    layout: e088,90x56,0,0,48
+    panes:
+    - cd /root/notes
+- learning:
+    layout: 5eee,90x56,0,0[90x31,0,0,49,90x24,0,32{58x24,0,32,50,31x24,59,32,51}]
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+- periodic-notes:
+    layout: 1e1d,90x56,0,0[90x27,0,0,52,90x28,0,28{43x28,0,28,53,46x28,44,28,54}]
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/vimwiki
+    - cd /root/vimwiki
+- tasks:
+    layout: b355,90x56,0,0{36x56,0,0,55,53x56,37,0,56}
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root
+- templates:
+    layout: 40f1,90x56,0,0{42x56,0,0[42x27,0,0,57,42x28,0,28,58],47x56,43,0[47x28,43,0,59,47x27,43,29{1x27,43,29,60,45x27,45,29,61}]}
+    panes:
+    - cd /root
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+    - cd /root/.tmux
+    - cd /root/.tmux/logs
+- ranger:
+    layout: e083,90x56,0,0,62
+    panes:
+    - cd /root/notes/snake-weasel
+- zsh:
+    layout: e084,90x56,0,0,63
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+- zsh:
+    layout: e085,90x56,0,0,64
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel

@@ -1,0 +1,10 @@
+---
+name: typescript-learning
+project_root: "/root/notes/snake-weasel"
+windows:
+- zsh:
+    layout: 5dd8,90x56,0,0[90x30,0,0{46x30,0,0,154,43x30,47,0,155},90x25,0,31,156]
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+    - cd /root/programming/flux/github/typescript-template-pnpm

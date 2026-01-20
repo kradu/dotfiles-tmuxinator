@@ -1,0 +1,8 @@
+---
+name: telescope_nvim
+project_root: "/root/programming/flux/github/telescope.nvim"
+windows:
+- nvim:
+    layout: b075,90x56,0,0,125
+    panes:
+    - cd /root/programming/flux/github/telescope.nvim

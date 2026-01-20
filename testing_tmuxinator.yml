@@ -1,0 +1,17 @@
+---
+name: testing_tmuxinator
+project_root: "/usr/local/bin"
+windows:
+- editor:
+    layout: a1f7,236x76,0,0{113x76,0,0,128,122x76,114,0,129}
+    panes:
+    - cd /usr/local/bin
+    - cd /usr/local/bin
+- server:
+    layout: 3071,90x56,0,0,130
+    panes:
+    - cd /root
+- logs:
+    layout: 3072,90x56,0,0,131
+    panes:
+    - cd /root

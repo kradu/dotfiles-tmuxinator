@@ -1,0 +1,8 @@
+---
+name: tdd-research
+project_root: "/root/programming/flux/github/pytest"
+windows:
+- pytest:
+    layout: b074,90x56,0,0,124
+    panes:
+    - cd /root/programming/flux/github/pytest

@@ -1,0 +1,23 @@
+---
+name: aliases
+project_root: "/root"
+windows:
+- man:
+    layout: 857c,90x56,0,0{51x56,0,0,2,38x56,52,0[38x28,52,0,3,38x27,52,29,4]}
+    panes:
+    - cd /usr/local/bin
+    - cd /mnt/c/Users/jimja
+    - cd /mnt/c/Users/jimja
+- documenting:
+    layout: 5cf8,90x56,0,0{39x56,0,0[39x27,0,0,5,39x28,0,28,6],50x56,40,0[50x32,40,0,7,50x6,40,33,8,50x16,40,40,9]}
+    panes:
+    - cd /root/taskopen/scripts
+    - cd /root/notes/snake-weasel
+    - cd /root/.config/nvim/lua/plugins
+    - cd /root/taskopen/scripts
+    - cd /root/Notes/tasknotes
+- ".zshrc":
+    layout: 310c,90x56,0,0{45x56,0,0,10,44x56,46,0,11}
+    panes:
+    - cd /root
+    - cd /root

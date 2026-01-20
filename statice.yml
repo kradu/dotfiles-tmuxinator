@@ -1,0 +1,8 @@
+---
+name: statice
+project_root: "/mnt/c/Users/jimja"
+windows:
+- zsh:
+    layout: 608c,90x56,0,0,99
+    panes:
+    - cd /mnt/c/Users/jimja

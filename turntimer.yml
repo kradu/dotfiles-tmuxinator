@@ -1,0 +1,46 @@
+---
+name: turntimer
+project_root: "/root/programming/turntimer/src"
+windows:
+- cleaning:
+    layout: 2218,90x56,0,0[90x30,0,0,139,90x25,0,31,140]
+    panes:
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer
+- ng-frontend:
+    layout: 9f2d,90x56,0,0{45x56,0,0,141,44x56,46,0,142}
+    panes:
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer/src
+- zsh:
+    layout: b493,90x56,0,0{45x56,0,0[45x28,0,0,143,45x27,0,29,144],44x56,46,0,145}
+    panes:
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer
+- debugLogs:
+    layout: b077,90x56,0,0,146
+    panes:
+    - cd /root/programming/turntimer
+- turnsheets:
+    layout: 9f36,90x56,0,0{45x56,0,0,147,44x56,46,0,148}
+    panes:
+    - cd /mnt/c/Users/jimja/Documents/media/random/turnsheets
+    - cd /mnt/c/Users/jimja/Documents/media/random/turnsheets
+- exten:
+    layout: df34,90x56,0,0{45x56,0,0,149,44x56,46,0,150}
+    panes:
+    - cd /mnt/c/Users/jimja/Downloads/timeturner_extension
+    - cd /mnt/c/Users/jimja/Downloads/timeturner_extension
+- exten-cli:
+    layout: 3073,90x56,0,0,151
+    panes:
+    - cd /mnt/c/Users/jimja/Downloads/timeturner_extension
+- zsh:
+    layout: 3074,90x56,0,0,152
+    panes:
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer

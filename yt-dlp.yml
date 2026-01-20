@@ -1,0 +1,16 @@
+---
+name: yt-dlp
+project_root: "/mnt/c/Users/jimja"
+windows:
+- zsh:
+    layout: 236b,90x56,0,0{47x56,0,0,188,42x56,48,0,189}
+    panes:
+    - cd /mnt/c/Users/jimja
+    - cd /mnt/c/Users/jimja
+    - cd /mnt/c/Users/jimja
+- zsh:
+    layout: 3074,90x56,0,0,190
+    panes:
+    - cd /mnt/c/Users/jimja
+    - cd /mnt/c/Users/jimja
+    - cd /mnt/c/Users/jimja

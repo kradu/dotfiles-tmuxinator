@@ -1,0 +1,39 @@
+---
+name: porting
+project_root: "/root/programming/express-generator-20250716"
+windows:
+- zsh:
+    layout: e08a,90x56,0,0,69
+    panes:
+    - cd /root/programming/turntimer
+    - cd /root/programming/timeturner_server
+- nvim:
+    layout: 3d5c,90x56,0,0[90x28,0,0,70,90x27,0,29,71]
+    panes:
+    - cd /root/programming/turntimer/src/infrastructure/database
+    - cd /root/notes/snake-weasel
+- zsh-old:
+    layout: 6084,90x56,0,0,72
+    panes:
+    - cd /root/programming/timeturner_server
+- nvim-old:
+    layout: 6085,90x56,0,0,73
+    panes:
+    - cd /root/programming/timeturner_server
+- zsh:
+    layout: 6086,90x56,0,0,74
+    panes:
+    - cd /root/programming/turntimer
+    - cd /root/programming/timeturner_server
+- porting:
+    layout: ca83,90x56,0,0{46x56,0,0,75,43x56,47,0[43x28,47,0,76,43x27,47,29{21x27,47,29,77,21x27,69,29,78}]}
+    panes:
+    - cd /root/programming/express-generator-20250716
+    - cd /root/programming/turntimer
+    - cd /root/programming/turntimer
+    - cd /root/vimwiki
+- notes:
+    layout: fd6d,90x56,0,0[90x28,0,0,79,90x27,0,29,80]
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel

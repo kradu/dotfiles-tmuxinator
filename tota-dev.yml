@@ -1,0 +1,8 @@
+---
+name: tota-dev
+project_root: "/root"
+windows:
+- zsh:
+    layout: 3079,90x56,0,0,138
+    panes:
+    - cd /root

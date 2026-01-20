@@ -1,0 +1,34 @@
+---
+name: flux
+project_root: "/root"
+windows:
+- zsh:
+    layout: e086,90x56,0,0,27
+    panes:
+    - cd /root/programming/flux
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root
+    - cd /root/programming/flux
+- zsh:
+    layout: 6803,90x20,0,0[90x16,0,0,28,90x3,0,17{27x3,0,17,29,62x3,28,17,30}]
+    panes:
+    - cd /root/programming/flux
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root
+    - cd /root/programming/flux
+- zsh:
+    layout: 2f92,183x56,0,0{92x56,0,0[92x28,0,0,191,92x27,0,29,193],90x56,93,0,192}
+    panes:
+    - cd /root/programming/flux
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root/programming/flux/github/vit
+    - cd /root
+    - cd /root/programming/flux

@@ -1,0 +1,18 @@
+---
+name: hono_study
+project_root: "/root/programming/flux/github"
+windows:
+- zsh:
+    layout: 1fe4,90x56,0,0{59x56,0,0[59x28,0,0,32,59x27,0,29,33],30x56,60,0,34}
+    panes:
+    - cd /root/programming/flux/github/hono
+    - cd /root/programming/flux/github
+    - cd /root/notes/snake-weasel
+    - cd /root/programming/flux/github
+- zsh:
+    layout: 6085,90x56,0,0,35
+    panes:
+    - cd /root/programming/flux/github/hono
+    - cd /root/programming/flux/github
+    - cd /root/notes/snake-weasel
+    - cd /root/programming/flux/github

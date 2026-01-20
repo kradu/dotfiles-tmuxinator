@@ -1,0 +1,33 @@
+---
+name: viewing-behind
+project_root: "/root/programming/flux"
+windows:
+- very-small:
+    layout: 22be,90x56,0,0{68x56,0,0{24x56,0,0,157,14x56,25,0[14x17,25,0,158,14x21,25,18,159,14x16,25,40,160],28x56,40,0,161},21x56,69,0,162}
+    panes:
+    - cd /root/programming/flux
+    - cd /root/programming/flux
+    - cd /root/programming/flux
+    - cd /root/programming/flux
+    - cd /root/programming/flux
+    - cd /root/programming/tota/cloned_playground/ngx-graph
+- small:
+    layout: 2792,90x56,0,0{68x56,0,0,163,21x56,69,0,164}
+    panes:
+    - cd /root/programming/flux
+    - cd /root/programming/flux
+- medium:
+    layout: 2795,90x56,0,0{68x56,0,0,165,21x56,69,0,166}
+    panes:
+    - cd /root/programming/flux
+    - cd /root/programming/flux
+- large:
+    layout: 2798,90x56,0,0{68x56,0,0,167,21x56,69,0,168}
+    panes:
+    - cd /root/programming/flux
+    - cd /root/programming/flux
+- very-large:
+    layout: 6796,90x56,0,0{68x56,0,0,169,21x56,69,0,170}
+    panes:
+    - cd /root/programming/flux
+    - cd /root/programming/flux

@@ -1,0 +1,8 @@
+---
+name: github-repos
+project_root: "/root/programming/flux/github/pytest"
+windows:
+- nvim:
+    layout: 6081,90x56,0,0,31
+    panes:
+    - cd /root/programming/flux/github/pytest

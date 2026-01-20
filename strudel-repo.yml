@@ -1,0 +1,10 @@
+---
+name: strudel-repo
+project_root: "/root/programming/flux/github/strudel"
+windows:
+- zsh:
+    layout: 303d,90x56,0,0{45x56,0,0,100,44x56,46,0[44x27,46,0,101,44x28,46,28,102]}
+    panes:
+    - cd /root/programming/flux/github/strudel
+    - cd /root/programming/flux/github/strudel
+    - cd /root/notes/snake-weasel

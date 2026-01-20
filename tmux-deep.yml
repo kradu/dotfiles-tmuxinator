@@ -1,0 +1,19 @@
+---
+name: tmux-deep
+project_root: "/root/.tmux"
+windows:
+- scripting:
+    layout: 9d52,90x56,0,0[90x27,0,0,132,90x28,0,28,133]
+    panes:
+    - cd /root/.tmux
+    - cd /root/.tmux
+- tmuxinator:
+    layout: aa74,90x56,0,0{44x56,0,0[44x28,0,0,134,44x27,0,29,135],45x56,45,0,136}
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel
+    - cd /root
+- nvim:
+    layout: 3078,90x56,0,0,137
+    panes:
+    - cd /root/notes/snake-weasel

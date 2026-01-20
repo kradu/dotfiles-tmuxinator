@@ -1,0 +1,109 @@
+---
+name: windows
+project_root: "/mnt/c/Users/jimja/Documents"
+windows:
+- zsh:
+    layout: 481d,90x56,0,0{47x56,0,0[47x25,0,0,171,47x13,0,26{23x13,0,26,172,23x13,24,26,173},47x16,0,40,174],42x56,48,0[42x27,48,0,175,42x28,48,28,176]}
+    panes:
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads/linux/taskwarrior-tui
+    - cd /mnt/c/Users/jimja/Documents
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads/linux/yt-dlp
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+- random-media:
+    layout: 307a,90x56,0,0,177
+    panes:
+    - cd /mnt/c/Users/jimja/Documents/media
+- downloads:
+    layout: 6582,90x56,0,0{67x56,0,0,178,22x56,68,0,179}
+    panes:
+    - cd /mnt/c/Users/jimja/Documents
+    - cd /mnt/c/Users/jimja/Downloads/linux
+- random-cli:
+    layout: b073,90x56,0,0,180
+    panes:
+    - cd /mnt/c/Users/jimja/Downloads/linux/yt-dlp
+- VLC:
+    layout: b074,90x56,0,0,181
+    panes:
+    - cd /mnt/c/Program
+- program-files-(x86):
+    layout: b075,90x56,0,0,182
+    panes:
+    - cd /mnt/c/Users/jimja/Downloads/linux/yt-dlp
+- zsh:
+    layout: b076,90x56,0,0,183
+    panes:
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads/linux/taskwarrior-tui
+    - cd /mnt/c/Users/jimja/Documents
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads/linux/yt-dlp
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+- zsh:
+    layout: b077,90x56,0,0,184
+    panes:
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads/linux/taskwarrior-tui
+    - cd /mnt/c/Users/jimja/Documents
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads/linux/yt-dlp
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+- zsh:
+    layout: b078,90x56,0,0,185
+    panes:
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads/linux/taskwarrior-tui
+    - cd /mnt/c/Users/jimja/Documents
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads/linux/yt-dlp
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+- zsh:
+    layout: b079,90x56,0,0,186
+    panes:
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads/linux/taskwarrior-tui
+    - cd /mnt/c/Users/jimja/Documents
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads/linux/yt-dlp
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+- zsh:
+    layout: b07a,90x56,0,0,187
+    panes:
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads
+    - cd /mnt/c/Users/jimja/Downloads/linux/taskwarrior-tui
+    - cd /mnt/c/Users/jimja/Documents
+    - cd /mnt/c/Users/jimja/Documents/media/random
+    - cd /mnt/c/Users/jimja/Downloads/linux/yt-dlp
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux
+    - cd /mnt/c/Users/jimja/Downloads/linux

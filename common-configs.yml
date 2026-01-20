@@ -1,0 +1,34 @@
+---
+name: common-configs
+project_root: "/root/.config/nvim"
+windows:
+- nvim:
+    layout: bd59,90x56,0,0[90x28,0,0,12,90x27,0,29,13]
+    panes:
+    - cd /root/.config/nvim
+    - cd /root/.config/nvim
+- ".tmux.conf":
+    layout: a797,90x56,0,0[90x28,0,0,14,90x27,0,29{45x27,0,29,15,44x27,46,29,16}]
+    panes:
+    - cd /root/.config/nvim
+    - cd /root
+    - cd /root/notes/snake-weasel
+- ".zshrc":
+    layout: 385b,90x56,0,0{44x56,0,0,17,45x56,45,0[45x28,45,0,18,45x27,45,29,19]}
+    panes:
+    - cd /root
+    - cd /root/.config/nvim
+    - cd /root/.config/nvim
+- ".taskrc":
+    layout: 1ed3,90x56,0,0[90x28,0,0{44x28,0,0,20,45x28,45,0,21},90x27,0,29,22]
+    panes:
+    - cd /root
+    - cd /root
+    - cd /root/taskopen/scripts
+- vit:
+    layout: 9240,90x56,0,0{46x56,0,0[46x30,0,0,23,46x25,0,31,24],43x56,47,0[43x28,47,0,25,43x27,47,29,26]}
+    panes:
+    - cd /root
+    - cd /root
+    - cd /root/.vit
+    - cd /root/.vit

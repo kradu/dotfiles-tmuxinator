@@ -1,0 +1,9 @@
+---
+name: nvim_repo
+project_root: "/root/programming/flux/github/neovim"
+windows:
+- zsh:
+    layout: 82e1,90x56,0,0{68x56,0,0,66,21x56,69,0,67}
+    panes:
+    - cd /root/programming/flux/github/neovim
+    - cd /root/programming/flux/github/neovim

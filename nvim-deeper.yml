@@ -1,0 +1,8 @@
+---
+name: nvim-deeper
+project_root: "/root/.config/nvim"
+windows:
+- nvim:
+    layout: e086,90x56,0,0,65
+    panes:
+    - cd /root/.config/nvim

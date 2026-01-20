@@ -1,0 +1,8 @@
+---
+name: subs
+project_root: "/root/programming/flux/subs"
+windows:
+- zsh:
+    layout: b072,90x56,0,0,103
+    panes:
+    - cd /root/programming/flux/subs

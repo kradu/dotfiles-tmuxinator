@@ -1,0 +1,8 @@
+---
+name: pm
+project_root: "/root/programming/flux/github/pm"
+windows:
+- copying:
+    layout: e089,90x56,0,0,68
+    panes:
+    - cd /root/programming/flux/github/pm

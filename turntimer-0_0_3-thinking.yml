@@ -1,0 +1,8 @@
+---
+name: turntimer-0_0_3-thinking
+project_root: "/root/notes/snake-weasel"
+windows:
+- nvim:
+    layout: 3075,90x56,0,0,153
+    panes:
+    - cd /root/notes/snake-weasel

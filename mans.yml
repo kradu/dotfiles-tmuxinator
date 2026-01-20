@@ -1,0 +1,14 @@
+---
+name: mans
+project_root: "/root"
+windows:
+- zsh:
+    layout: 6086,90x56,0,0,36
+    panes:
+    - cd /root
+    - cd /mnt/c/Users/jimja
+- zsh:
+    layout: 6087,90x56,0,0,37
+    panes:
+    - cd /root
+    - cd /mnt/c/Users/jimja

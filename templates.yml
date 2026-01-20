@@ -1,0 +1,12 @@
+---
+name: templates
+project_root: "/mnt/c/Users/jimja"
+windows:
+- zsh:
+    layout: b076,90x56,0,0,126
+    panes:
+    - cd /mnt/c/Users/jimja
+- git-repos:
+    layout: b077,90x56,0,0,127
+    panes:
+    - cd /mnt/c/Users/jimja

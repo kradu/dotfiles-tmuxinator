@@ -1,0 +1,26 @@
+---
+name: scripting
+project_root: "/root/programming/scripts"
+windows:
+- tmux-functions:
+    layout: 4508,90x56,0,0{43x56,0,0[43x28,0,0,82,43x27,0,29,83],46x56,44,0,84}
+    panes:
+    - cd /root/programming
+    - cd /root/notes/snake-weasel
+    - cd /root/.tmux/logs
+- nvim-lua:
+    layout: e087,90x56,0,0,85
+    panes:
+    - cd /root/programming
+- lua-other:
+    layout: 93fa,90x56,0,0{67x56,0,0[67x23,0,0,86,67x32,0,24,87],22x56,68,0[22x28,68,0,88,22x27,68,29,89]}
+    panes:
+    - cd /root/.tmux/logs
+    - cd /root/.tmux/logs
+    - cd /root/notes/snake-weasel
+    - cd /root
+- posix:
+    layout: 3116,90x56,0,0{45x56,0,0,90,44x56,46,0,91}
+    panes:
+    - cd /root/programming/scripts/lib
+    - cd /root/programming/scripts

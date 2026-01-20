@@ -1,0 +1,13 @@
+---
+name: taskwiki-experimenting
+project_root: "/root/notes/snake-weasel"
+windows:
+- nvim:
+    layout: b071,90x56,0,0,121
+    panes:
+    - cd /root/notes/snake-weasel
+- meta-templates:
+    layout: a60f,183x56,0,0[183x28,0,0,122,183x27,0,29,123]
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/notes/snake-weasel

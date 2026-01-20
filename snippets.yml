@@ -1,0 +1,23 @@
+---
+name: snippets
+project_root: "/root/taskwarrior/taskwarrior-tui"
+windows:
+- zsh:
+    layout: b6f2,90x56,0,0[90x29,0,0{29x29,0,0,92,60x29,30,0,93},90x26,0,30,94]
+    panes:
+    - cd /root
+    - cd /root/taskwarrior/taskwarrior-tui
+    - cd /root/.config/nvim
+- nvim_luasnip-ts:
+    layout: 6088,90x56,0,0,95
+    panes:
+    - cd /root/.config/nvim/snippets
+- nvim_luasnip-lua:
+    layout: 6089,90x56,0,0,96
+    panes:
+    - cd /root/programming/snippets/from_gh
+- bash:
+    layout: acb7,90x56,0,0{44x56,0,0,97,45x56,45,0,98}
+    panes:
+    - cd /root/notes/snake-weasel
+    - cd /root/.config/nvim
